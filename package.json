@@ -1,6 +1,6 @@
 {
   "name": "quantal-base-model",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/index.js",
   "dependencies": {
     "bookshelf-modelbase": "^2.10.3",
