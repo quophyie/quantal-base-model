@@ -16,5 +16,29 @@
     "eslint-plugin-standard": "^2.1.1",
     "mocha": "^2.4.5",
     "standard": "^9.0.1"
-  }
+  },
+  "description": "A simple wrapper aroud bookshelf-modelbase",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quophyie/quantal-base-model.git"
+  },
+  "keywords": [
+    "bookshelf",
+    "models",
+    "bookshelf-model",
+    "orm",
+    "model"
+  ],
+  "author": "quophyie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quophyie/quantal-base-model/issues"
+  },
+  "homepage": "https://github.com/quophyie/quantal-base-model#readme"
 }
