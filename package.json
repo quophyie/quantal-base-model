@@ -4,7 +4,7 @@
   "main": "lib/index.js",
   "dependencies": {
     "bookshelf-modelbase": "^2.10.3",
-    "quantal-errors": "^0.0.5"
+    "quantal-errors": "0.0.12"
   },
   "devDependencies": {
     "code": "^4.0.0",
